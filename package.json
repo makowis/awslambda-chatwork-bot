@@ -1,7 +1,10 @@
 {
   "name": "nodebot",
   "version": "1.0.0",
-  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "private": true,
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^10.12.20",
