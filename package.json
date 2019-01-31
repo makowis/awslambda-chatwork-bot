@@ -1,0 +1,14 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.20",
+    "@types/request": "^2.48.1",
+    "typescript": "^3.2.4"
+  },
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
